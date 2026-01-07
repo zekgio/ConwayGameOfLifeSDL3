@@ -1,8 +1,8 @@
-# Snake (C++ / SDL3)
+# Game Of Life (C++ / SDL3)
 
 A minimal version of Conway's Game Of Life written in C++ using SDL3 for rendering.
 
-
+![gameoflife](https://github.com/user-attachments/assets/6abb9594-2f3c-44dd-81c3-948f80a45370)
 
 ## Features
 - **C++20 Standard**
