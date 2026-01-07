@@ -18,7 +18,7 @@ A minimal version of Conway's Game Of Life written in C++ using SDL3 for renderi
 ### Instructions (Terminal)
 ```bash
 git clone https://github.com/zekgio/ConwayGameOfLifeSDL3.git
-cd SimpleSnakeSDL3
+cd ConwayGameOfLifeSDL3
 cmake --preset x64-debug
 cmake --build --preset x64-debug
 ./out/build/x64-debug/ConwayGameOfLifeSDL3.exe  (or .\out\build\x64-debug\ConwayGameOfLifeSDL3.exe if on Windows)
