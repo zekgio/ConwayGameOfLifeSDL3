@@ -22,3 +22,7 @@ cd ConwayGameOfLifeSDL3
 cmake --preset x64-debug
 cmake --build --preset x64-debug
 ./out/build/x64-debug/ConwayGameOfLifeSDL3.exe  (or .\out\build\x64-debug\ConwayGameOfLifeSDL3.exe if on Windows)
+```
+
+### Credits
+- Inspired by "The Builder" youtube tutorials
